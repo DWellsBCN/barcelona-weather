@@ -1,0 +1,10 @@
+{
+  "name": "barcelona-weather",
+  "version": "0.1.0",
+  "description": "A sunny Barcelona theme whose sky, sea and skyline follow the live weather in Barcelona.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "David Wells"
+  },
+  "license": "MIT"
+}

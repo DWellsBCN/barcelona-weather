@@ -1,0 +1,13 @@
+{
+  "name": "barcelona-weather",
+  "description": "A sunny Barcelona theme for Claude whose sky follows the live weather.",
+  "owner": {
+    "name": "David Wells"
+  },
+  "plugins": [
+    {
+      "name": "barcelona-weather",
+      "source": "./"
+    }
+  ]
+}
